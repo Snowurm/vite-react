@@ -1,0 +1,8 @@
+https://github.com/vitejs/awesome-vite#templates
+
+https://github.com/antfu/vitesse
+https://github.com/IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint
+
+npx degit IsaiaPhiliph/vite-reactts-tailwind-rtk-eslint React-ts-tailwind-reduxtools-eslint-vite
+npx degit antfu/vitesse#main vitesse
+npx vite --port=4000

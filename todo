@@ -1,0 +1,11 @@
+1. Add full app features
+
+
+...
+Features:
+Account management (Sign up, Delete user, LogIn LogOut)
+Item listing (View listed items, and their information.)
+Item selection(Select a listed item)
+Item Creation(Create an item, owned by you)
+...
+React project finished
